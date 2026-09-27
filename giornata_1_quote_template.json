@@ -1,10 +1,10 @@
 {
-  "giornata": 3,
-  "tipo_giornata": "lunga",
+  "giornata": 1,
+  "tipo_giornata": "corta",
   "partite": [
     {
-      "awayTeam": "Arizona Cactus",
-      "homeTeam": "Detroit Eliters",
+      "awayTeam": "Niagara Falls Goats",
+      "homeTeam": "Arizona Cactus",
       "quote": {
         "winnerAway": 0,
         "winnerHome": 0,
@@ -23,108 +23,8 @@
       }
     },
     {
-      "awayTeam": "Las Vegas Jackpots",
-      "homeTeam": "Bronx Rangers",
-      "quote": {
-        "winnerAway": 0,
-        "winnerHome": 0,
-        "under90": 0,
-        "over90": 0,
-        "under125": 0,
-        "over125": 0,
-        "under150": 0,
-        "over150": 0,
-        "under175": 0,
-        "over175": 0,
-        "spreadNeg10": 0,
-        "spread10_20": 0,
-        "spread20_30": 0,
-        "spread30Plus": 0
-      }
-    },
-    {
-      "awayTeam": "Detroit Octopus",
-      "homeTeam": "London Hummingbirds",
-      "quote": {
-        "winnerAway": 0,
-        "winnerHome": 0,
-        "under90": 0,
-        "over90": 0,
-        "under125": 0,
-        "over125": 0,
-        "under150": 0,
-        "over150": 0,
-        "under175": 0,
-        "over175": 0,
-        "spreadNeg10": 0,
-        "spread10_20": 0,
-        "spread20_30": 0,
-        "spread30Plus": 0
-      }
-    },
-    {
-      "awayTeam": "Montreal Natives",
-      "homeTeam": "Niagara Falls Goats",
-      "quote": {
-        "winnerAway": 0,
-        "winnerHome": 0,
-        "under90": 0,
-        "over90": 0,
-        "under125": 0,
-        "over125": 0,
-        "under150": 0,
-        "over150": 0,
-        "under175": 0,
-        "over175": 0,
-        "spreadNeg10": 0,
-        "spread10_20": 0,
-        "spread20_30": 0,
-        "spread30Plus": 0
-      }
-    },
-    {
-      "awayTeam": "Pittsburgh Bagpipes",
-      "homeTeam": "Philadelphia Alleghers",
-      "quote": {
-        "winnerAway": 0,
-        "winnerHome": 0,
-        "under90": 0,
-        "over90": 0,
-        "under125": 0,
-        "over125": 0,
-        "under150": 0,
-        "over150": 0,
-        "under175": 0,
-        "over175": 0,
-        "spreadNeg10": 0,
-        "spread10_20": 0,
-        "spread20_30": 0,
-        "spread30Plus": 0
-      }
-    },
-    {
-      "awayTeam": "Quebec Mooses",
-      "homeTeam": "Regina Sestras",
-      "quote": {
-        "winnerAway": 0,
-        "winnerHome": 0,
-        "under90": 0,
-        "over90": 0,
-        "under125": 0,
-        "over125": 0,
-        "under150": 0,
-        "over150": 0,
-        "under175": 0,
-        "over175": 0,
-        "spreadNeg10": 0,
-        "spread10_20": 0,
-        "spread20_30": 0,
-        "spread30Plus": 0
-      }
-    },
-    {
-      "awayTeam": "Saskatoon Herdsmen",
-      "homeTeam": "Toronto Sasquatch",
+      "awayTeam": "Bronx Rangers",
+      "homeTeam": "Montreal Natives",
       "quote": {
         "winnerAway": 0,
         "winnerHome": 0,
@@ -144,7 +44,107 @@
     },
     {
       "awayTeam": "Chicago Jackals",
+      "homeTeam": "Saskatoon Herdsmen",
+      "quote": {
+        "winnerAway": 0,
+        "winnerHome": 0,
+        "under90": 0,
+        "over90": 0,
+        "under125": 0,
+        "over125": 0,
+        "under150": 0,
+        "over150": 0,
+        "under175": 0,
+        "over175": 0,
+        "spreadNeg10": 0,
+        "spread10_20": 0,
+        "spread20_30": 0,
+        "spread30Plus": 0
+      }
+    },
+    {
+      "awayTeam": "Las Vegas Jackpots",
+      "homeTeam": "Detroit Eliters",
+      "quote": {
+        "winnerAway": 0,
+        "winnerHome": 0,
+        "under90": 0,
+        "over90": 0,
+        "under125": 0,
+        "over125": 0,
+        "under150": 0,
+        "over150": 0,
+        "under175": 0,
+        "over175": 0,
+        "spreadNeg10": 0,
+        "spread10_20": 0,
+        "spread20_30": 0,
+        "spread30Plus": 0
+      }
+    },
+    {
+      "awayTeam": "London Hummingbirds",
+      "homeTeam": "Quebec Mooses",
+      "quote": {
+        "winnerAway": 0,
+        "winnerHome": 0,
+        "under90": 0,
+        "over90": 0,
+        "under125": 0,
+        "over125": 0,
+        "under150": 0,
+        "over150": 0,
+        "under175": 0,
+        "over175": 0,
+        "spreadNeg10": 0,
+        "spread10_20": 0,
+        "spread20_30": 0,
+        "spread30Plus": 0
+      }
+    },
+    {
+      "awayTeam": "Pittsburgh Bagpipes",
       "homeTeam": "Halifax Lumberjacks",
+      "quote": {
+        "winnerAway": 0,
+        "winnerHome": 0,
+        "under90": 0,
+        "over90": 0,
+        "under125": 0,
+        "over125": 0,
+        "under150": 0,
+        "over150": 0,
+        "under175": 0,
+        "over175": 0,
+        "spreadNeg10": 0,
+        "spread10_20": 0,
+        "spread20_30": 0,
+        "spread30Plus": 0
+      }
+    },
+    {
+      "awayTeam": "Regina Sestras",
+      "homeTeam": "Philadelphia Alleghers",
+      "quote": {
+        "winnerAway": 0,
+        "winnerHome": 0,
+        "under90": 0,
+        "over90": 0,
+        "under125": 0,
+        "over125": 0,
+        "under150": 0,
+        "over150": 0,
+        "under175": 0,
+        "over175": 0,
+        "spreadNeg10": 0,
+        "spread10_20": 0,
+        "spread20_30": 0,
+        "spread30Plus": 0
+      }
+    },
+    {
+      "awayTeam": "Toronto Sasquatch",
+      "homeTeam": "Detroit Octopus",
       "quote": {
         "winnerAway": 0,
         "winnerHome": 0,
